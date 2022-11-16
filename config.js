@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @WB 🔭
+// M A D E  B Y  WS - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -44,25 +44,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/wb_create01?r=nametag'
+global.sgh = 'https://github.com/WIBUGAME01'
+global.sgc = 'https://chat.whatsapp.com/LWZTET0TM8FA0cMS86jQds'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '089525720818'
+global.povo = ''
+global.pgopay = ''
+global.ppulsa = ''
+global.ppulsa2 = ''
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6289525720818'
+global.nomorown = '6289525720818'
+global.namebot = 'WV BOT'
+global.nameown = 'OWNER-WV'
 
 
 /*============== STAFF ==============*/
@@ -115,12 +115,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 WV BOTあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘wb - WJ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ƘWV 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 WhatsAppʙᴏᴛ'
 global.author = global.wm
 
 
@@ -133,7 +133,7 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = '```𝗟𝗢𝗔𝗗𝗜𝗡𝗚 ██████████████] 98%```'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nW\nO\nC\nK\nV\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
