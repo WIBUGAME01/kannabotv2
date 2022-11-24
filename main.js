@@ -32,7 +32,7 @@ import {
 const {
   useMultiFileAuthState,
   DisconnectReason
-} = await import('@adiwajshing/baileys')
+} = await import('@ERTVF/baileys')
 
 const { CONNECTING } = ws
 const { chain } = lodash
@@ -85,7 +85,7 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-global.authFile = `${opts._[0] || 'kannabot'}.data.json`
+global.authFile = `${opts._[0] || 'ertvfbot'}.data.json`
 console.log(`Load AuthFile from ${authFile}`)
 const { state, saveCreds } = await useMultiFileAuthState(global.authFile)
 
