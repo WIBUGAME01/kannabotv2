@@ -1,5 +1,5 @@
 {
-    "name": "Kanna BOT",
+    "name": "BOT ERTVF",
     "version": "2.10.18",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/BochilGaming/games-wabot",
     "author": {
-        "name": "BochilGaming"
+        "name": "BOT ERTVF"
     },
     "repository": {
         "type": "git",
